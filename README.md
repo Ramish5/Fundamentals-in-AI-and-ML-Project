@@ -13,7 +13,13 @@ Project Overview:
 Where does it get data from:
  -Real-World Observation:
     -The "Urgent" and "Routine" word lists aren't random. I got this info by looking at my own inbox from the last month.
-         Examples: I noticed that almost every message I missed had the word "deadline" or "required." I also saw that messages I ignored usually had words like  "newsletter" or "potluck."
+         Examples: I noticed that almost every message I missed had the word "deadline" or "required." I also saw that messages I ignored usually had words like  "newsletter" or "Sale".
+  -Community Patterns :
+       I observed how people in my specific environment (college) talk.
+           Info gathered: In a college setting, words like "Exam" or "Lab" are high priority. In an office, words like "Invoice" or "Meeting" might be the key info points.
+-User Input :
+       The "Live" info comes directly from the user. When someone pastes a message, that is the Unseen Data the AI has to classify.
+
 Some screenshot of its working:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c920d3e8-b01a-4292-8b64-4a1922430260" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40634e45-e967-49e9-9bfb-1bfb60b4906b" />
